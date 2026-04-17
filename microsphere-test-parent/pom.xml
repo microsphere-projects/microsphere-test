@@ -24,7 +24,7 @@
         <microsphere-spring.version>0.2.5</microsphere-spring.version>
         <slf4j.version>2.0.17</slf4j.version>
         <logback.version>1.5.32</logback.version>
-        <spring.version>7.0.6</spring.version>
+        <spring.version>7.0.7</spring.version>
         <sqlite-jdbc.version>3.51.3.0</sqlite-jdbc.version>
         <tomcat.version>11.0.18</tomcat.version>
         <zookeeper.version>3.9.5</zookeeper.version>
