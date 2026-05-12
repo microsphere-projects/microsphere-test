@@ -21,7 +21,7 @@
     <properties>
         <microsphere-java.version>0.1.9</microsphere-java.version>
         <microsphere-logging.version>0.1.0</microsphere-logging.version>
-        <microsphere-spring.version>0.2.5</microsphere-spring.version>
+        <microsphere-spring.version>0.2.15</microsphere-spring.version>
         <slf4j.version>2.0.17</slf4j.version>
         <logback.version>1.5.32</logback.version>
         <spring.version>7.0.6</spring.version>
